@@ -11,4 +11,4 @@ Install with your package manager of choice then call:
 
 # Screenshots
 
-![cpp](https://imgur.com/4755tG8)
+![cpp](https://i.imgur.com/4755tG8.png)
