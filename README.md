@@ -1,6 +1,6 @@
-# Handmade-Nvim WIP
+# Handmade-Nvim
 
-Handmade Hero theme for neovim. Taken directly from Casey Muratori's 4coder theme.
+Handmade Hero theme for neovim.
 
 If you wish to add colors to this theme, PRs are open. I only included the colors I needed.
 
