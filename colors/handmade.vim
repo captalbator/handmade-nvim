@@ -54,6 +54,7 @@ hi DiffAdd guibg=#101010 guifg=#6b8e23
 hi DiffDelete guibg=#101010 guifg=#ff0000
 hi DiffChange guibg=#101010 guifg=#ac7b0b
 
+hi Todo guibg=#0c0c0c guifg=#6b8e23
 hi TodoBgTODO guibg=#0c0c0c
 hi TodoBgFIX guibg=#0c0c0c
 hi TodoBgNOTE guibg=#0c0c0c
