@@ -13,7 +13,7 @@ hi Normal guibg=#0C0C0C guifg=#a08563
 hi Identifier guifg=#a08563 gui=NONE
 hi Constant guifg=#a08563 gui=NONE
 hi Cursor guibg=#00a000 guifg=NONE gui=reverse
-hi CursorLine guibg=#0c0c0c
+hi CursorLine guibg=#181818
 hi Search guibg=#315268 guifg=#c4b82b
 hi IncSearch guibg=#315268 guifg=#c4b82b
 hi Comment guifg=#686868
@@ -21,13 +21,13 @@ hi Keyword guifg=#ac7b0b gui=NONE
 hi Statement guifg=#ac7b0b gui=NONE
 hi String guifg=#6b8e23
 hi Number guifg=#6b8e23
-hi PreProc guifg=#dab98f 
+hi PreProc guifg=#dab98f
 hi Character guifg=#6b8e23
 hi Boolean guifg=#6b8e23
 hi Integer guifg=#6b8e23
 hi Float guifg=#6b8e23
 hi Include guifg=#dab98f
-hi SpecialKey guifg=#ff0000
+hi SpecialKey guifg=#a00000
 hi SpecialChar guifg=#a08563
 hi SpecialComment guifg=#00a000
 hi LineNr guibg=#101010 guifg=#404040
