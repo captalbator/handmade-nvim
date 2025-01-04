@@ -1,5 +1,4 @@
 " handmade.vim -- Based on casey muratori's 4coder theme
-
 hi clear
 
 if exists("syntax_on")
