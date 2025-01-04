@@ -32,6 +32,8 @@ hi SpecialComment guifg=#00a000
 hi LineNr guibg=#101010 guifg=#404040
 hi CursorLineNr guibg=#101010 guifg=#808080
 hi Visual guibg=#1f1f27 gui=NONE
+hi Operator guifg=#a08563
+hi @variable guifg=#a08563
 
 hi Pmenu guibg=#0C0C0C guifg=#a08563
 hi PmenuSel guibg=#1f1f27
